@@ -1,0 +1,10 @@
+#userId {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    border: none;
+    transition: all 0.3s;
+  }
+  #userId:focus {
+    outline: none;
+    transform: scale(1.02);
+  }
